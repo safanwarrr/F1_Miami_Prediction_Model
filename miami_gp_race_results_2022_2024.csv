@@ -1,0 +1,61 @@
+position,classified_position,driver_number,driver_code,driver_name,first_name,last_name,team,team_color,grid_position,points,time,status,country_code,q1_time,q2_time,q3_time,year,race_date
+1.0,1,1,VER,Max Verstappen,Max,Verstappen,Red Bull Racing,1e5bc6,3.0,26.0,0 days 01:34:24.258000,Finished,NED,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+2.0,2,16,LEC,Charles Leclerc,Charles,Leclerc,Ferrari,ed1c24,1.0,18.0,0 days 00:00:03.786000,Finished,MON,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+3.0,3,55,SAI,Carlos Sainz,Carlos,Sainz,Ferrari,ed1c24,2.0,15.0,0 days 00:00:08.229000,Finished,ESP,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+4.0,4,11,PER,Sergio Perez,Sergio,Perez,Red Bull Racing,1e5bc6,4.0,12.0,0 days 00:00:10.638000,Finished,MEX,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+5.0,5,63,RUS,George Russell,George,Russell,Mercedes,6cd3bf,12.0,10.0,0 days 00:00:18.582000,Finished,GBR,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+6.0,6,44,HAM,Lewis Hamilton,Lewis,Hamilton,Mercedes,6cd3bf,6.0,8.0,0 days 00:00:21.368000,Finished,GBR,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+7.0,7,77,BOT,Valtteri Bottas,Valtteri,Bottas,Alfa Romeo,b12039,5.0,6.0,0 days 00:00:25.073000,Finished,FIN,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+8.0,8,31,OCO,Esteban Ocon,Esteban,Ocon,Alpine,2293d1,20.0,4.0,0 days 00:00:28.386000,Finished,FRA,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+9.0,9,23,ALB,Alexander Albon,Alexander,Albon,Williams,37bedd,18.0,2.0,0 days 00:00:32.365000,Finished,THA,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+10.0,10,18,STR,Lance Stroll,Lance,Stroll,Aston Martin,2d826d,0.0,1.0,0 days 00:00:37.026000,Finished,CAN,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+11.0,11,14,ALO,Fernando Alonso,Fernando,Alonso,Alpine,2293d1,11.0,0.0,0 days 00:00:37.128000,Finished,ESP,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+12.0,12,22,TSU,Yuki Tsunoda,Yuki,Tsunoda,AlphaTauri,4e7c9b,9.0,0.0,0 days 00:00:40.146000,Finished,JPN,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+13.0,13,3,RIC,Daniel Ricciardo,Daniel,Ricciardo,McLaren,f58020,14.0,0.0,0 days 00:00:40.902000,Finished,AUS,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+14.0,14,6,LAT,Nicholas Latifi,Nicholas,Latifi,Williams,37bedd,19.0,0.0,0 days 00:00:49.936000,Finished,CAN,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+15.0,15,47,MSC,Mick Schumacher,Mick,Schumacher,Haas F1 Team,b6babd,15.0,0.0,0 days 00:01:13.305000,Finished,GER,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+16.0,16,20,MAG,Kevin Magnussen,Kevin,Magnussen,Haas F1 Team,b6babd,16.0,0.0,DNF,Front wing,DEN,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+17.0,17,5,VET,Sebastian Vettel,Sebastian,Vettel,Aston Martin,2d826d,0.0,0.0,DNF,Collision,GER,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+18.0,R,10,GAS,Pierre Gasly,Pierre,Gasly,AlphaTauri,4e7c9b,7.0,0.0,DNF,Suspension,FRA,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+19.0,R,4,NOR,Lando Norris,Lando,Norris,McLaren,f58020,8.0,0.0,DNF,Collision,GBR,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+20.0,R,24,ZHO,Guanyu Zhou,Guanyu,Zhou,Alfa Romeo,b12039,17.0,0.0,DNF,Water leak,CHN,N/A,N/A,N/A,2022,2022-05-08 19:30:00
+1.0,1,1,VER,Max Verstappen,Max,Verstappen,Red Bull Racing,3671C6,9.0,26.0,0 days 01:27:38.241000,Finished,NED,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+2.0,2,11,PER,Sergio Perez,Sergio,Perez,Red Bull Racing,3671C6,1.0,18.0,0 days 00:00:05.384000,Finished,MEX,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+3.0,3,14,ALO,Fernando Alonso,Fernando,Alonso,Aston Martin,358C75,2.0,15.0,0 days 00:00:26.305000,Finished,ESP,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+4.0,4,63,RUS,George Russell,George,Russell,Mercedes,6CD3BF,6.0,12.0,0 days 00:00:33.229000,Finished,GBR,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+5.0,5,55,SAI,Carlos Sainz,Carlos,Sainz,Ferrari,F91536,3.0,10.0,0 days 00:00:42.511000,Finished,ESP,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+6.0,6,44,HAM,Lewis Hamilton,Lewis,Hamilton,Mercedes,6CD3BF,13.0,8.0,0 days 00:00:51.249000,Finished,GBR,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+7.0,7,16,LEC,Charles Leclerc,Charles,Leclerc,Ferrari,F91536,7.0,6.0,0 days 00:00:52.988000,Finished,MON,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+8.0,8,10,GAS,Pierre Gasly,Pierre,Gasly,Alpine,2293D1,5.0,4.0,0 days 00:00:55.670000,Finished,FRA,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+9.0,9,31,OCO,Esteban Ocon,Esteban,Ocon,Alpine,2293D1,8.0,2.0,0 days 00:00:58.123000,Finished,FRA,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+10.0,10,20,MAG,Kevin Magnussen,Kevin,Magnussen,Haas F1 Team,B6BABD,4.0,1.0,0 days 00:01:02.945000,Finished,DEN,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+11.0,11,22,TSU,Yuki Tsunoda,Yuki,Tsunoda,AlphaTauri,5E8FAA,17.0,0.0,0 days 00:01:04.309000,Finished,JPN,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+12.0,12,18,STR,Lance Stroll,Lance,Stroll,Aston Martin,358C75,18.0,0.0,0 days 00:01:04.754000,Finished,CAN,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+13.0,13,77,BOT,Valtteri Bottas,Valtteri,Bottas,Alfa Romeo,C92D4B,10.0,0.0,0 days 00:01:11.637000,Finished,FIN,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+14.0,14,23,ALB,Alexander Albon,Alexander,Albon,Williams,37BEDD,11.0,0.0,0 days 00:01:12.861000,Finished,THA,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+15.0,15,27,HUL,Nico Hulkenberg,Nico,Hulkenberg,Haas F1 Team,B6BABD,12.0,0.0,0 days 00:01:14.950000,Finished,GER,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+16.0,16,24,ZHO,Guanyu Zhou,Guanyu,Zhou,Alfa Romeo,C92D4B,14.0,0.0,0 days 00:01:18.440000,Finished,CHN,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+17.0,17,4,NOR,Lando Norris,Lando,Norris,McLaren,F58020,16.0,0.0,0 days 00:01:27.717000,Finished,GBR,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+18.0,18,21,DEV,Nyck De Vries,Nyck,De Vries,AlphaTauri,5E8FAA,15.0,0.0,0 days 00:01:28.949000,Finished,NED,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+19.0,19,81,PIA,Oscar Piastri,Oscar,Piastri,McLaren,F58020,19.0,0.0,0 days 00:00:20.510000,Lapped,AUS,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+20.0,20,2,SAR,Logan Sargeant,Logan,Sargeant,Williams,37BEDD,20.0,0.0,0 days 00:00:34.388000,Lapped,USA,N/A,N/A,N/A,2023,2023-05-07 19:30:00
+1.0,1,4,NOR,Lando Norris,Lando,Norris,McLaren,FF8000,5.0,25.0,0 days 01:30:49.876000,Finished,GBR,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+2.0,2,1,VER,Max Verstappen,Max,Verstappen,Red Bull Racing,3671C6,1.0,18.0,0 days 00:00:07.612000,Finished,NED,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+3.0,3,16,LEC,Charles Leclerc,Charles,Leclerc,Ferrari,E80020,2.0,15.0,0 days 00:00:09.920000,Finished,MON,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+4.0,4,11,PER,Sergio Perez,Sergio,Perez,Red Bull Racing,3671C6,4.0,12.0,0 days 00:00:14.650000,Finished,MEX,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+5.0,5,55,SAI,Carlos Sainz,Carlos,Sainz,Ferrari,E80020,3.0,10.0,0 days 00:00:16.407000,Finished,ESP,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+6.0,6,44,HAM,Lewis Hamilton,Lewis,Hamilton,Mercedes,27F4D2,8.0,8.0,0 days 00:00:16.585000,Finished,GBR,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+7.0,7,22,TSU,Yuki Tsunoda,Yuki,Tsunoda,RB,6692FF,10.0,6.0,0 days 00:00:26.185000,Finished,JPN,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+8.0,8,63,RUS,George Russell,George,Russell,Mercedes,27F4D2,7.0,4.0,0 days 00:00:34.789000,Finished,GBR,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+9.0,9,14,ALO,Fernando Alonso,Fernando,Alonso,Aston Martin,229971,15.0,2.0,0 days 00:00:37.107000,Finished,ESP,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+10.0,10,31,OCO,Esteban Ocon,Esteban,Ocon,Alpine,0093cc,13.0,1.0,0 days 00:00:39.746000,Finished,FRA,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+11.0,11,27,HUL,Nico Hulkenberg,Nico,Hulkenberg,Haas F1 Team,B6BABD,9.0,0.0,0 days 00:00:40.789000,Finished,GER,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+12.0,12,10,GAS,Pierre Gasly,Pierre,Gasly,Alpine,0093cc,12.0,0.0,0 days 00:00:44.958000,Finished,FRA,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+13.0,13,81,PIA,Oscar Piastri,Oscar,Piastri,McLaren,FF8000,6.0,0.0,0 days 00:00:49.756000,Finished,AUS,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+14.0,14,24,ZHO,Guanyu Zhou,Guanyu,Zhou,Kick Sauber,52e252,19.0,0.0,0 days 00:00:49.979000,Finished,CHN,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+15.0,15,3,RIC,Daniel Ricciardo,Daniel,Ricciardo,RB,6692FF,20.0,0.0,0 days 00:00:50.956000,Finished,AUS,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+16.0,16,77,BOT,Valtteri Bottas,Valtteri,Bottas,Kick Sauber,52e252,16.0,0.0,0 days 00:00:52.356000,Finished,FIN,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+17.0,17,18,STR,Lance Stroll,Lance,Stroll,Aston Martin,229971,11.0,0.0,0 days 00:00:55.173000,Finished,CAN,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+18.0,18,23,ALB,Alexander Albon,Alexander,Albon,Williams,64C4FF,14.0,0.0,0 days 00:01:16.091000,Finished,THA,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+19.0,19,20,MAG,Kevin Magnussen,Kevin,Magnussen,Haas F1 Team,B6BABD,18.0,0.0,0 days 00:01:24.683000,Finished,DEN,N/A,N/A,N/A,2024,2024-05-05 20:00:00
+20.0,R,2,SAR,Logan Sargeant,Logan,Sargeant,Williams,64C4FF,17.0,0.0,DNF,Retired,USA,N/A,N/A,N/A,2024,2024-05-05 20:00:00

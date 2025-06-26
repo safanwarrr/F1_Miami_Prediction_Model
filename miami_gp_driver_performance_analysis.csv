@@ -1,0 +1,25 @@
+driver,races_participated,years,teams,average_position,total_points,average_points,positions
+Max Verstappen,3,"[2022, 2023, 2024]",['Red Bull Racing'],1.33,70.0,23.33,"[1.0, 1.0, 2.0]"
+Sergio Perez,3,"[2022, 2023, 2024]",['Red Bull Racing'],3.33,42.0,14.0,"[4.0, 2.0, 4.0]"
+Charles Leclerc,3,"[2022, 2023, 2024]",['Ferrari'],4.0,39.0,13.0,"[2.0, 7.0, 3.0]"
+Carlos Sainz,3,"[2022, 2023, 2024]",['Ferrari'],4.33,35.0,11.67,"[3.0, 5.0, 5.0]"
+George Russell,3,"[2022, 2023, 2024]",['Mercedes'],5.67,26.0,8.67,"[5.0, 4.0, 8.0]"
+Lewis Hamilton,3,"[2022, 2023, 2024]",['Mercedes'],6.0,24.0,8.0,"[6.0, 6.0, 6.0]"
+Fernando Alonso,3,"[2022, 2023, 2024]","['Aston Martin', 'Alpine']",7.67,17.0,5.67,"[11.0, 3.0, 9.0]"
+Esteban Ocon,3,"[2022, 2023, 2024]",['Alpine'],9.0,7.0,2.33,"[8.0, 9.0, 10.0]"
+Yuki Tsunoda,3,"[2022, 2023, 2024]","['AlphaTauri', 'RB']",10.0,6.0,2.0,"[12.0, 11.0, 7.0]"
+Valtteri Bottas,3,"[2022, 2023, 2024]","['Alfa Romeo', 'Kick Sauber']",12.0,6.0,2.0,"[7.0, 13.0, 16.0]"
+Lando Norris,3,"[2022, 2023, 2024]",['McLaren'],12.33,25.0,8.33,"[19.0, 17.0, 1.0]"
+Pierre Gasly,3,"[2022, 2023, 2024]","['AlphaTauri', 'Alpine']",12.67,4.0,1.33,"[18.0, 8.0, 12.0]"
+Lance Stroll,3,"[2022, 2023, 2024]",['Aston Martin'],13.0,1.0,0.33,"[10.0, 12.0, 17.0]"
+Nico Hulkenberg,2,"[2023, 2024]",['Haas F1 Team'],13.0,0.0,0.0,"[15.0, 11.0]"
+Alexander Albon,3,"[2022, 2023, 2024]",['Williams'],13.67,2.0,0.67,"[9.0, 14.0, 18.0]"
+Daniel Ricciardo,2,"[2022, 2024]","['McLaren', 'RB']",14.0,0.0,0.0,"[13.0, 15.0]"
+Nicholas Latifi,1,[2022],['Williams'],14.0,0.0,0.0,[14.0]
+Mick Schumacher,1,[2022],['Haas F1 Team'],15.0,0.0,0.0,[15.0]
+Kevin Magnussen,3,"[2022, 2023, 2024]",['Haas F1 Team'],15.0,1.0,0.33,"[16.0, 10.0, 19.0]"
+Oscar Piastri,2,"[2023, 2024]",['McLaren'],16.0,0.0,0.0,"[19.0, 13.0]"
+Guanyu Zhou,3,"[2022, 2023, 2024]","['Alfa Romeo', 'Kick Sauber']",16.67,0.0,0.0,"[20.0, 16.0, 14.0]"
+Sebastian Vettel,1,[2022],['Aston Martin'],17.0,0.0,0.0,[17.0]
+Nyck De Vries,1,[2023],['AlphaTauri'],18.0,0.0,0.0,[18.0]
+Logan Sargeant,2,"[2023, 2024]",['Williams'],20.0,0.0,0.0,"[20.0, 20.0]"

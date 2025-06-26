@@ -1,0 +1,13 @@
+team,total_entries,total_points,average_position,average_points_per_entry,drivers
+Red Bull Racing,6,112.0,2.33,18.67,"['Max Verstappen', 'Sergio Perez']"
+Ferrari,6,74.0,4.17,12.33,"['Carlos Sainz', 'Charles Leclerc']"
+Mercedes,6,50.0,5.83,8.33,"['George Russell', 'Lewis Hamilton']"
+McLaren,6,25.0,13.67,4.17,"['Lando Norris', 'Daniel Ricciardo', 'Oscar Piastri']"
+Aston Martin,6,18.0,11.33,3.0,"['Sebastian Vettel', 'Lance Stroll', 'Fernando Alonso']"
+Alpine,6,11.0,9.67,1.83,"['Esteban Ocon', 'Fernando Alonso', 'Pierre Gasly']"
+Alfa Romeo,4,6.0,14.0,1.5,"['Guanyu Zhou', 'Valtteri Bottas']"
+RB,2,6.0,11.0,3.0,"['Yuki Tsunoda', 'Daniel Ricciardo']"
+Williams,6,2.0,15.83,0.33,"['Logan Sargeant', 'Alexander Albon', 'Nicholas Latifi']"
+Haas F1 Team,6,1.0,14.33,0.17,"['Mick Schumacher', 'Kevin Magnussen', 'Nico Hulkenberg']"
+AlphaTauri,4,0.0,14.75,0.0,"['Yuki Tsunoda', 'Nyck De Vries', 'Pierre Gasly']"
+Kick Sauber,2,0.0,15.0,0.0,"['Guanyu Zhou', 'Valtteri Bottas']"
